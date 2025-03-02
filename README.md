@@ -14,3 +14,4 @@ Make sure the latest version of python is installed on your machine
   python app.py
 
 Note: app.py is the file holding the main code for the application
+REPO: https://github.com/AuthenticPaulMeyers/gitHub_user_activity
