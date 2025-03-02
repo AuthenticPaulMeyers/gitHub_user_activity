@@ -1,4 +1,4 @@
-#Beginner Backend Project by [roadmap.sh](https://roadmap.sh/projects/github-user-activity)
+# Beginner Backend Project by [roadmap.sh](https://roadmap.sh/projects/github-user-activity)
 > A simple command line interface (CLI) in python to fetch the recent activity of a GitHub user and display it in the terminal.
 Make sure the latest version of python is installed on your machine
 
